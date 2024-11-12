@@ -1,4 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*tumsoFWVsYD--RbH1SV31Q.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*tumsoFWVsYD--RbH1SV31Q.png" alt="MasterHead" />
+</p>
 <h1 align="center">Hi 👋, I'm Meryem</h1>
 <h3 align="center">I am an Android Developer</h3>
 
